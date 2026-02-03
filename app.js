@@ -96,3 +96,4 @@ const renderRecipes = (recipesToRender) => {
 
 // Initialize app
 renderRecipes(recipes);
+// assignment completed
